@@ -1,0 +1,166 @@
+[
+  {
+    "id": 1,
+    "titulo": "Thiago Allan - A lenda",
+    "imagem": "/assets/Thiago.png",
+    "descricao": "A verdadeira lenda viva do chess, desenvolvedor, data engenieer e um atleta de ponta",
+    "Wikipedia": "https://pt.wikipedia.org/wiki/Magnus_Carlsen",
+    "conteudo": [
+      "Desde muito cedo, Thiago Allan mostrou um grande talento para os esportes. Nascido em 13 de agosto de 2003, começou sua trajetória como atleta com o futsal e futebol de campo, onde desenvolveu habilidades de trabalho em equipe e agilidade. Mais tarde, se dedicou à musculação e ao boxe, explorando diferentes formas de treinamento físico.",
+      "Seu caminho no xadrez começou há alguns anos, quando se apaixonou pelas complexidades do jogo e se especializou na Defesa Siciliana, na Caro-Kann e na Abertura Inglesa. Thiago estudou no Geraldo, Belarmina, Adventista e no IFPA, onde aprendeu mais sobre disciplina, foco e estratégia, habilidades que ele aplica tanto no xadrez quanto em sua vida diária.",
+      "Além de ser um atleta versátil, Thiago se destaca como um verdadeiro estrategista no tabuleiro, combinando seu talento com uma mentalidade aguçada e apaixonada pelo xadrez."
+    ]
+  },
+  {
+    "id": 2,
+    "titulo": "Pedro Borges - O sem limistes",
+    "imagem": "/assets/Predote.png",
+    "descricao": "Desenvolvedor full stack, o cara da tecnologia e da lógica de programação",
+    "Wikipedia": "https://pt.wikipedia.org/wiki/Magnus_Carlsen",
+    "conteudo": [
+      "Até os 8 anos, Pedro Borges Miranda se destacava como goleiro de futsal, mas depois de velho o xadrez chamou sua atenção. Começou a se aventurar no tabuleiro e em apenas 2 anos de experiência se especializou na Abertura Inglesa e na Defesa Petroff, mostrando grande talento e dedicação. Nascido em 14 de julho de 2003, Pedro estudou no Geraldo, no Belarmina e no IFPA, onde aprimorou suas habilidades e fez amizades valiosas.",
+      "Apesar de sua crescente trajetória no xadrez, Pedro teve uma derrota memorável para o verdadeiro mestre, Thiago Allan, que continua sendo uma lenda viva no mundo do xadrez. Quem diria que o melhor goleiro de futsal do IF se tornaria um verdadeiro estrategista de xadrez?"
+    ]
+  },
+  {
+    "id": 3,
+    "titulo": "Magnus Carlsen",
+    "imagem": "/assets/Magnus_Carlsen-01.png",
+    "descricao": "Atual campeão mundial, Carlsen é considerado um dos maiores gênios do xadrez.",
+    "Wikipedia": "https://pt.wikipedia.org/wiki/Magnus_Carlsen",
+    "conteudo": [
+      "Até os 8 anos de idade, Magnus Carlsen se interessava muito por futebol e começou a praticar sky jumping. Seu maior feito no xadrez foi ter derrotado sua irmã mais velha. Aos 10 anos, participou do seu primeiro torneio contra juniores experientes da Noruega, obtendo 3,5 pontos em 5 possíveis.",
+      "Aos 11 e 12 anos, começou a estudar com o Grande Mestre Simen Agdestein e fez uma turnê preparatória pela Europa. Aos 13 anos, tornou-se Mestre Internacional de Xadrez em 20 de agosto de 2003. Antes de completar 14 anos, em 2004, tornou-se o mais jovem Grande Mestre de Xadrez até aquele momento. Ainda nesse ano, o jornal Washington Post o chamou de 'Mozart do xadrez'.",
+      "Aos 17 anos, alcançou a semifinal da World Chess Cup. Aos 18, empatou na primeira colocação do torneio Corus A, deixando para trás Viswanathan Anand e Vladimir Kramnik. Aos 19 anos, em 2009, treinou por um ano com Garry Kasparov, quando alcançou uma 'performance rating' de aproximadamente 3000 pontos, ao vencer o torneio de Nanjing com 8 pontos em 10 possíveis.",
+      "No torneio magistral de Londres, em dezembro de 2009, Carlsen venceu com um ponto a mais que o russo Vladimir Kramnik, tornando-se o mais jovem número um no ranking mundial da história da FIDE. Aos 20 anos, já era o primeiro do ranking há mais de um ano.",
+      "Aos 22 anos, ganhou pela terceira vez o London Chess Championship. Aos 23 anos, em 2013, tornou-se campeão mundial ao derrotar o então campeão Viswanathan Anand e venceu o torneio de Chennai. Aos 24 anos, defendeu seu título contra Anand e tornou-se o primeiro campeão com a tríplice coroa, vencendo o mundial de xadrez blitz e o de xadrez rápido.",
+      "Em 2016, aos 26 anos, Magnus Carlsen manteve o título de campeão mundial ao derrotar Sergey Karjakin por 9 a 7. Em 2018, manteve o título de campeão de xadrez clássico contra Fabiano Caruana, vencendo no tie-break. Em 2019, repetiu o feito de 2014, tornando-se novamente campeão mundial nas três modalidades (Clássico, Rápido e Blitz).",
+      "Garry Kasparov descreveu Magnus Carlsen como uma mistura de Harry Potter com José Raúl Capablanca e Anatoly Karpov. Magnus afirma que não se baseia em um jogador específico, mas analisa o jogo de todos e se deixa levar pela intuição."
+    ]
+  },
+  {
+    "id": 4,
+    "titulo": "Garry Kasparov",
+    "imagem": "/assets/Garry_Kasparov-02.png",
+    "descricao": "Um dos maiores nomes do xadrez, Kasparov dominou o cenário mundial por muitos anos.",
+    "Wikipedia": "https://pt.wikipedia.org/wiki/Garry_Kasparov",
+    "conteudo": [
+      "Garry Kasparov nasceu Garry Weinstein em Bacu, de uma mãe armênia e um pai judeu. Ele começou a estudar xadrez ao propor uma solução para um problema criado por seus pais. Seu pai morreu de leucemia quando ele tinha sete anos, e aos 12 anos Garry adotou o sobrenome armênio de sua mãe, Kasparyan, alterando-o para uma versão mais russa, Kasparov.",
+      "Kasparov treinou na escola de xadrez de Mikhail Botvinnik e venceu o Campeonato de Juniores da União Soviética em Tbilisi, em 1976, aos 13 anos. Em 1978, participou do torneio Sokolsky Memorial em Minsk e venceu, o que foi um ponto decisivo para sua carreira profissional.",
+      "Kasparov subiu rapidamente no ranking da FIDE e, em 1980, venceu o Campeonato Mundial de Juniores. No mesmo ano, fez sua estreia na Olimpíada de Xadrez em Malta, tornando-se oficialmente um Grande Mestre de Xadrez."
+    ]
+  },
+  {
+    "id": 5,
+    "titulo": "Anatoly Karpov",
+    "imagem": "/assets/Anatoly_Karpov-03.png",
+    "Wikipedia": "https://pt.wikipedia.org/wiki/Anatoly_Karpov",
+    "descricao": "Campeão mundial de xadrez, conhecido por seu estilo posicional e técnica impecável.",
+    "conteudo": [
+      "Sagrou-se campeão mundial juvenil em 1969 e obteve o título de Grande Mestre em 1970. Ao vencer o Torneio Interzonal de Leningrado (1973), qualificou-se para disputar, no ano seguinte, o Torneio de Candidatos, que consistia em uma série de matches eliminatórios cujo vencedor apontaria o desafiante ao título mundial.",
+      "Fischer desistiu de disputar a final, pois não concordava que o match tivesse um número determinado de jogos. Diante da desistência do campeão, a FIDE proclamou Karpov campeão. Assim, ele tornou-se campeão mundial de xadrez sem a necessidade de disputar um match.",
+      "Nos anos seguintes, Karpov participou ativamente dos principais torneios, vencendo-os quase sempre, confirmando seu merecimento ao título de campeão.",
+      "Em 1978 e 1981, Karpov manteve o título máximo ao derrotar Viktor Korchnoi, que venceu o Torneio de Candidatos em 1977 e 1980."
+    ]
+  },
+  {
+    "id": 6,
+    "titulo": "Bobby Fischer",
+    "imagem": "/assets/Bobby_Fischer-04.png",
+    "descricao": "Gênio do xadrez, famoso por sua genialidade e estilo agressivo.",
+    "Wikipedia": "https://pt.wikipedia.org/wiki/Bobby_Fischer",
+    "conteudo": [
+      "Filho de pai alemão, Hans-Gerhardt Fischer, um biofísico, e mãe suíça naturalizada norte-americana, Regina Wender, aprendeu a jogar xadrez aos seis anos com sua irmã mais velha, que o entretinha com diversos jogos enquanto a mãe ia trabalhar.",
+      "Aos treze anos, jogou a 'Partida do Século' num torneio de Mestres em 1956 contra Donald Byrne. Fischer venceu também o campeonato americano oito vezes em oito participações, sendo a primeira aos catorze anos em 1957.",
+      "A principal façanha da sua carreira foi a classificação para chegar à final do mundial contra Boris Spassky. Fischer venceu Taimanov, Larsen e Petrosian de forma impressionante. Em 1992, Fischer voltou a disputar um encontro contra Spassky, vencendo novamente.",
+      "Fischer foi preso no Japão e lutou contra sua extradição para os Estados Unidos por quase um ano. A Islândia ofereceu cidadania a Fischer, que aceitou e seguiu viagem para lá em 2005. Em eleição feita pelo Sahovski Informator, Fischer foi considerado o melhor enxadrista do século XX.",
+      "Bobby Fischer morreu em 17 de janeiro de 2008, na Islândia, aos 64 anos."
+    ]
+  },
+  {
+    "id": 7,
+    "titulo": "José Raúl Capablanca",
+    "imagem": "/assets/Jose_Raul_Capablanca-05.png",
+    "Wikipedia": "https://pt.wikipedia.org/wiki/Jos%C3%A9_Ra%C3%BAl_Capablanca",
+    "descricao": "Campeão mundial de xadrez, conhecido por sua genialidade e estilo preciso.",
+    "conteudo": [
+      "Em 1909, aos vinte anos, Capablanca venceu o campeão dos Estados Unidos, Frank Marshall, com uma vitória avassaladora: oito vitórias, uma derrota e catorze empates. Marshall era um jogador de altíssima qualidade, tendo disputado um match pelo título mundial apenas dois anos antes.",
+      "Em 1911, Capablanca participou do torneio de São Sebastião, na Espanha, um dos mais importantes torneios da época. Persuadido por Marshall, Capablanca provou seu valor contra mestres consagrados como Ossip Bernstein e Aaron Nimzowitsch...",
+      "Capablanca desafiou o então campeão mundial Emanuel Lasker em 1911, mas o match não ocorreu devido às exigências impostas por Lasker, que Capablanca não aceitou...",
+      "Em 1914, Capablanca enfrentou Lasker pela primeira vez em um torneio em São Petersburgo..."
+    ]
+  },
+  {
+    "id": 8,
+    "titulo": "Mikhail Botvinnik",
+    "imagem": "/assets/Mikhail_Botvinnik-06.png",
+    "Wikipedia": "https://pt.wikipedia.org/wiki/Mikhail_Botvinnik",
+    "descricao": "Campeão mundial de xadrez, conhecido por seu estilo científico e metódico.",
+    "conteudo": [
+      "Mikhail Botvinnik nasceu no Grão-ducado da Finlândia, então parte do Império Russo, na localidade de Kuokkala (atualmente chamada Repino). Sua primeira grande aparição no mundo do xadrez foi aos 14 anos, quando derrotou o campeão mundial José Raúl Capablanca.",
+      "Aos 20 anos, Botvinnik já era um mestre soviético consagrado, vencendo pela primeira vez o Campeonato Soviético em 1931. Ele repetiu esse feito em 1933, 1939, 1941, 1945 e 1952. Aos 24 anos, já competia de igual para igual com a elite mundial, acumulando sucessos internacionais, incluindo vitórias em Moscou (1935) e Nottingham (1936), além do prestigiado terceiro lugar no torneio AVRO de 1938.",
+      "Botvinnik foi campeão mundial em três períodos distintos: 1948-1957, 1958-1960 e 1961-1963. Sua longevidade no topo do xadrez mundial é atribuída ao seu método meticuloso de estudo e preparação, priorizando técnica e precisão em vez de jogadas intuitivas. Ele adotou e desenvolveu linhas sólidas de abertura na Nimzo-Indiana, Defesa Eslava e Defesa Francesa, garantindo um repertório confiável em seus matches mais importantes.",
+      "Apesar de raramente competir após a Segunda Guerra Mundial, Botvinnik ainda é lembrado como um dos maiores jogadores da história. Embora alguns críticos apontem que suas partidas eram mais baseadas em precisão do que em criatividade, outros, como o mestre Reuben Fine, destacam a beleza de suas melhores partidas.",
+      "Nos anos 1960, Botvinnik deixou a competição para se dedicar ao desenvolvimento de programas de xadrez para computadores e ao treinamento de novos jogadores. Entre seus alunos mais famosos estão os três 'K’s' soviéticos: Anatoly Karpov, Garry Kasparov e Vladimir Kramnik.",
+      "Sua autobiografia, 'Achieving the Aim', foi publicada em russo em 1978 e traduzida para o inglês em 1981, sendo uma obra essencial para quem deseja conhecer sua trajetória e abordagem no xadrez."
+    ]
+  },
+  {
+    "id": 9,
+    "titulo": "Alexander Alekhine",
+    "imagem": "/assets/Alexander_Alekhine-07.png",
+    "Wikipedia": "https://pt.wikipedia.org/wiki/Alexander_Alekhine",
+    "descricao": "Campeão mundial de xadrez, conhecido por seu estilo agressivo e criativo.",
+    "conteudo": [
+      "Alexander Alekhine nasceu em uma família abastada. Seu pai era proprietário de terras e membro da Duma, enquanto sua mãe era filha de um rico industrial. Foi ela quem ensinou Alexander e seu irmão a jogar xadrez, em 1903.",
+      "O primeiro grande feito de Alekhine no mundo do xadrez foi em 1909, aos 17 anos, quando venceu o torneio russo de xadrez para amadores em São Petersburgo. Com 12 vitórias, 2 empates e apenas 2 derrotas, ele conquistou o título de mestre nacional. Esse torneio ocorreu paralelamente ao torneio de profissionais, vencido por Emanuel Lasker e Akiba Rubinstein. Nesse mesmo ano, o jovem José Raúl Capablanca, aos 23 anos, surpreendeu ao vencer Frank Marshall nos Estados Unidos.",
+      "Em 1914, após o torneio de São Petersburgo, Alekhine e Capablanca estavam entre os cinco primeiros jogadores a receber o título de grandmaster. Alekhine, cosmopolita, viveu em vários países e falava russo, alemão, francês e inglês.",
+      "Após a Revolução Russa, foi preso em Odessa em 1919 sob suspeita de espionagem, mas foi libertado pouco depois. Em 1920, venceu o primeiro Campeonato Soviético de Xadrez. Mudou-se para a França em 1921, onde obteve cidadania em 1925 e estudou Direito na Sorbonne. Embora não tenha concluído sua tese sobre o sistema prisional chinês, Alekhine ficou conhecido como Dr. Alekhine pelo resto da vida.",
+      "Em 1927, Alekhine venceu Capablanca e tornou-se campeão mundial de xadrez. Apesar de uma revanche estar prevista nas condições do match, Alekhine recusou-se a concedê-la. Em vez disso, jogou dois matches contra Efim Bogolyubov, um adversário de nível inferior a Capablanca, que tinha um histórico de 5-0 contra Bogolyubov. Alekhine evitava até mesmo participar dos mesmos torneios que seu rival.",
+      "Em 1935, perdeu o título para Max Euwe, em parte devido ao seu consumo excessivo de álcool. Em 1936, com Alekhine já sem o título de campeão, Capablanca venceu o torneio de Nottingham, superando Alekhine em uma partida direta. Após abandonar o vício, Alekhine reconquistou o título mundial em 1937, derrotando Euwe de forma brilhante e demonstrando novamente sua supremacia no mundo do xadrez."
+    ]
+  },
+  {
+    "id": 10,
+    "titulo": "Vladimir Kramnik",
+    "imagem": "/assets/Vladimir_Kramnik-08.png",
+    "descricao": "Campeão mundial de xadrez, conhecido por seu estilo sólido e estratégico.",
+    "Wikipedia": "https://pt.wikipedia.org/wiki/Vladimir_Kramnik",
+    "conteudo": [
+      "Vladimir Borisovich Kramnik nasceu em 25 de junho de 1975, em Tuapse, Rússia. Grande Mestre Internacional e ex-Campeão Mundial de Xadrez, Kramnik unificou os títulos Clássico e FIDE em 2006. Ele se aposentou do xadrez profissional em janeiro de 2019, após disputar o Tata Steel Masters.",
+      "Kramnik aprendeu os conceitos básicos do xadrez aos cinco anos de idade, sendo inicialmente treinado por seu pai. Aos 11 anos, conquistou o título de Mestre Internacional e, em 1992, foi indicado por Garry Kasparov para integrar a equipe russa nas Olimpíadas de Xadrez de Manila, onde marcou 8,5 pontos em 9 possíveis, recebendo o título de Grande Mestre Internacional.",
+      "Conhecido por seu estilo de jogo prudente e cuidadoso, Kramnik evitava riscos desnecessários no tabuleiro, o que resultava em um número reduzido de derrotas. Em 2000, desafiou Kasparov e conquistou o título de Campeão Mundial de Xadrez Clássico. Ele manteve o título em 2004 ao empatar com Peter Leko e, em 2006, unificou os títulos ao vencer Veselin Topalov, então campeão mundial pela FIDE.",
+      "Em 2007, Kramnik perdeu o título para Viswanathan Anand em um torneio de novo formato organizado pela FIDE. No ano seguinte, em um match de revanche, não conseguiu recuperar o título.",
+      "Entre 25 de novembro e 5 de dezembro de 2006, Kramnik enfrentou o supercomputador Deep Fritz. Ele foi derrotado com duas perdas e quatro empates. Na primeira derrota, Kramnik, concentrado no flanco da dama, deixou escapar um possível empate devido à sua intensa busca pela vitória."
+    ]
+  },
+  {
+    "id": 11,
+    "titulo": "Viswanathan Anand: O \"Lightning Kid\"",
+    "imagem": "/assets/Viswanathan_Anand-09.png",
+    "descricao": "Campeão mundial de xadrez, conhecido por seu estilo rápido e versátil.",
+    "Wikipedia": "https://pt.wikipedia.org/wiki/Viswanathan_Anand",
+    "conteudo": [
+      "A ascensão de Viswanathan Anand no mundo do xadrez indiano foi meteórica. Aos catorze anos, em 1983, venceu o campeonato de xadrez indiano na categoria sub-júnior com um impressionante resultado de 9/9. Um ano depois, tornou-se o indiano mais jovem a receber o título de Mestre Internacional, com apenas quinze anos.",
+      "Com dezesseis anos, Anand conquistou o título de campeão nacional, que venceu mais duas vezes. Seu estilo de jogo rápido e preciso no formato blitz rendeu-lhe a alcunha de 'Lightning Kid'. Em 1987, Anand fez história ao ser o primeiro indiano a vencer o Campeonato Mundial de Xadrez Júnior. No ano seguinte, tornou-se o primeiro Grande Mestre indiano.",
+      "No início da década de 1990, Anand já competia entre os melhores jogadores do mundo. Em 1991, venceu o torneio de Reggio Emilia, superando nomes lendários como Garry Kasparov e Anatoly Karpov, que estavam em excelente forma.",
+      "Anand continuou a demonstrar sua força em torneios internacionais ao longo dos anos. Entre suas vitórias mais notáveis estão o Torneio de Dortmund em 2004 e as edições de 2003 e 2004 do prestigiado Torneio Corus, em Wijk aan Zee, na Holanda.",
+      "Anand tem sido uma presença constante no top 5 do ranking mundial por mais de uma década, permanecendo grande parte desse tempo entre os três melhores. Ele é considerado o jogador não russo mais forte desde Bobby Fischer. Como Fischer, Anand recebeu o prestigiado Chess Oscar em 1997, 1998 e 2003, consolidando-se como um dos maiores jogadores de xadrez de todos os tempos."
+    ]
+  },
+  {
+    "id": 12,
+    "titulo": "Paul Morphy: O Gênio do Xadrez Romântico",
+    "imagem": "/assets/Paul_Morphy-10.png",
+    "descricao": "Gênio do xadrez, conhecido por seu estilo brilhante e intuitivo.",
+    "Wikipedia": "https://pt.wikipedia.org/wiki/Paul_Morphy",
+    "conteudo": [
+      "Paul Morphy nasceu em Nova Orleans, em uma rica e distinta família. Seu pai, Alonzo Michael Morphy, foi advogado e legislador do estado de Louisiana. De ascendência espanhola, portuguesa e irlandesa, Alonzo casou-se com Louise Thérèse Félicité Thelcide Le Carpentier, uma mulher talentosa na música e de origem crioula francesa.",
+      "De acordo com seu tio, ninguém ensinou Paul a jogar xadrez formalmente — ele aprendeu apenas observando. Aos 12 anos, já possuía um nível excepcional de jogo e era capaz de disputar partidas simultâneas às cegas. Em 1850, enfrentou o mestre húngaro Johann Löwenthal, vencendo as três partidas que jogaram, consolidando sua reputação como um prodígio.",
+      "Além de ser um gênio no xadrez, Morphy tinha incríveis habilidades de memorização. Aos 19 anos, formou-se em Direito, mas como era jovem demais para exercer a profissão, decidiu dedicar-se ao xadrez. Aos 20 anos, tornou-se o primeiro campeão dos Estados Unidos em Nova Iorque, em 1857.",
+      "Em busca de novos desafios, Morphy viajou para a Europa, onde enfrentou e derrotou os melhores jogadores da época, incluindo Adolf Anderssen, considerado o melhor da Europa. Morphy venceu sete partidas, perdeu duas e empatou duas contra Anderssen, provando ser o jogador mais forte de sua geração.",
+      "Após retornar triunfante aos Estados Unidos em 1859, Morphy surpreendeu a todos ao abandonar o xadrez. Sua carreira no jogo durou apenas 18 meses. Infelizmente, a saúde mental de Morphy deteriorou-se com o tempo, e ele começou a sofrer de delírios de perseguição e paranoia. Ele faleceu aos 47 anos, vítima de um ataque cerebral.",
+      "“No xadrez, Morphy foi provavelmente o maior gênio dentre todos.”"
+    ]
+  }
+]
