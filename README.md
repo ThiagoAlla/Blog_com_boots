@@ -3,8 +3,11 @@
 Este projeto é um blog dedicado aos maiores jogadores de xadrez da história. Ele apresenta postagens detalhadas sobre as lendas do xadrez, incluindo suas biografias, conquistas e legados alem de uma resenha interna.
 
 # OBS:
-#### Devido a limitação do sigaa estou mandando este readme e aqui está o link para o projeto:
+#### Devido a limitação do sigaa estou mandando este readme e aqui está o link para o projeto e o site já hospedado:
 
+[link para o repositório no github](https://github.com/ThiagoAlla/Blog_com_boots)
+
+[Blog Hospedado](https://67c27923740155e56e7bf1c6--blogcombootchessword.netlify.app)
 
 
 ## Funcionalidades
@@ -103,15 +106,15 @@ yarn install
 
 Com as dependências instaladas, inicie o servidor de desenvolvimento com o comando:
 
-##````bash
+````bash
 npm run dev
-##````
+````
 
 ou com o Yarn:
 
-##````bash
+````bash
 yarn dev
-##````
+````
 
 O servidor estará rodando e você poderá acessar o blog no navegador através do endereço:
 
@@ -147,37 +150,11 @@ O servidor estará rodando e você poderá acessar o blog no navegador através 
 
 Para que os comentários sejam enviados para o e-mail, é necessário configurar o EmailJS.
 
-### Passo 1: Criar uma Conta no [EmailJS](https://www.emailjs.com/)
-
-1. Registre-se no EmailJS.
-2. Crie um novo serviço de e-mail e um novo template de e-mail.
-3. Copie os seguintes valores:
-   - **Service ID**
-   - **Template ID**
-   - **User ID**
-
-### Passo 2: Configurar o EmailJS
-
-No arquivo `src/components/CommentForm.jsx`, substitua os seguintes valores:
-
-##````javascript
-emailjs.send(
-  "service_5esgvj7", // Substitua pelo seu Service ID
-  "template_fi4iram", // Substitua pelo seu Template ID
-  templateParams,
-  "szX6gi5ARKzBYNLZ0" // Substitua pela sua User ID
-);
-##````
-
-Depois de configurar, os comentários enviados pelo formulário de contato serão enviados para o seu e-mail.
-
----
-
 ## Adicionando Novas Postagens
 
 As postagens estão armazenadas em um arquivo JSON dentro de `src/postagens/todas_postagens.json`. A estrutura de cada postagem é a seguinte:
 
-##````json
+````json
 {
   "id": 1,
   "titulo": "Magnus Carlsen",
@@ -189,7 +166,7 @@ As postagens estão armazenadas em um arquivo JSON dentro de `src/postagens/toda
   ],
   "Wikipedia": "https://pt.wikipedia.org/wiki/Magnus_Carlsen"
 }
-##````
+````
 
 Adicione ou edite as postagens seguindo essa estrutura.
 
